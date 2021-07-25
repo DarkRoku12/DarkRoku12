@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi, my name is __Enmanuel__, I'm a __software developer__ (or at least I believe so).
 
-<!--
-**DarkRoku12/DarkRoku12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Things I like:
+- Anime
+- Some movies
+- Soccer
+- Meeting people
+- Coding
+- Compilers
+- Optimization techniques
 
-Here are some ideas to get you started:
+Some of my thoughts are in my blog: https://code.darkroku12.ovh/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Future goal: Be an active maintainer of the LuaJIT project.
