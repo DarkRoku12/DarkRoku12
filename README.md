@@ -3,7 +3,7 @@ Hi, my name is __Enmanuel__, I'm a __software developer__ (or at least I believe
 Things I like:
 - Anime
 - Some movies
-- Multiplayer videgames
+- Multiplayer videogames
 - Soccer
 - Meeting people
 - Coding
