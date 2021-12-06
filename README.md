@@ -13,3 +13,5 @@ Things I like:
 Some of my thoughts are in my blog: https://code.darkroku12.ovh/
 
 Future goal: Be an active maintainer of the LuaJIT project.
+
+Professional career: https://www.linkedin.com/in/enmanuelr/
