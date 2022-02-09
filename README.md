@@ -1,6 +1,6 @@
 Hi, my name is __Enmanuel__, I'm a __software developer__ (or at least I believe so).
 
-Things I like:
+**Things I like:**
 - Anime
 - Some movies
 - Multiplayer videogames
@@ -23,3 +23,9 @@ Future goal: Be an active maintainer of the LuaJIT project.
 <span>
   <img src="https://discord-avatar-maker.app/_nuxt/img/discord-avatar-maker-logo.12acf34.gif" width="12" height="12" /> Roku#0894
 </span>
+
+<hr>
+
+:palm_tree: Country: Dominican Republic. <br>
+:sunglasses: Nicknames: Roku, DarkRoku, Enma. <br>
+:computer: Workplace: [Emerging Impact](https://www.emergingimpact.com).
