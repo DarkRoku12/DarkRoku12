@@ -11,6 +11,7 @@ Hi, my name is __Enmanuel__, I'm a __software developer__ (or at least I believe
 - Optimization techniques
 
 Some of my thoughts are in my blog: https://code.darkroku12.ovh/
+
 Also, you can checkout my gist: https://gist.github.com/DarkRoku12
 
 Future goal: Be an active maintainer of the LuaJIT project.
