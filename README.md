@@ -29,4 +29,4 @@ Future goal: Be an active maintainer of the LuaJIT project.
 
 :palm_tree: Country: Dominican Republic. <br>
 :sunglasses: Nicknames: Roku, DarkRoku, Enma. <br>
-:computer: Workplace: [Emerging Impact (Umoja Labs Corp.)](https://www.emergingimpact.com).
+:computer: Workplace: [Emerging Impact (Umoja Labs Corp.)](https://umoja.xyz).
