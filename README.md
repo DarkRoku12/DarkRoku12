@@ -5,8 +5,9 @@ Hi, my name is __Enmanuel__, I'm a __software developer__ (or at least I believe
 - Some movies
 - Multiplayer videogames
 - Soccer
+- Finances
 - Meeting people
-- Coding
+- Coding & Game development
 - Compilers
 - Optimization techniques
 
