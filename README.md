@@ -34,7 +34,7 @@ Future goal: Be an active maintainer of the LuaJIT project.
 :bell: Available for hire! 
 
 Creator of [Re:Member](https://re-member.ink), a continuity engine, not just memory retrieval. Already SOTA in LongMemEval and C2/C4 categories of LoCoMo.
-Building in tandem Re:Worlds, not 'a' creative writing platform, _the ultimate creative writing platform_.
+Building in tandem [Re:Worlds](https://reworlds.ink/), not 'a' creative writing platform, _the ultimate creative writing and roleplaying platform_.
 Working tirelessly to bring sharp continuity to LLMs. What's 'continuity'? Continuity is evolving while being in essence the same.
 
 <hr>
